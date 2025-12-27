@@ -11,7 +11,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta charset="UTF-8">
   <title>Site test Google Tag Manager</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <meta name="google-site-verification" content="Zzk3E0gwvMhCHaiGEAIM-NJJJdJN1wekDuVHrzBQ048" />
   <!-- Google Tag Manager -->
   <script>
     (function(w,d,s,l,i){
